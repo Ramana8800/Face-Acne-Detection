@@ -1,0 +1,7 @@
+{
+  "name": "AcneScan AI",
+  "description": "Intelligent face acne detection, severity analysis, and personalized skincare recommendations using deep learning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
